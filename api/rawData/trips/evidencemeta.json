@@ -1,0 +1,1 @@
+{"queries":[{"id":"trips","compiledQueryString":"select * from GTFS.trips","inputQueryString":"select * from GTFS.trips","compiled":false,"inline":true}]}

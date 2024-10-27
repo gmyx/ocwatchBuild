@@ -1,0 +1,1 @@
+{"queries":[{"id":"calendar","compiledQueryString":"select * from GTFS.calendar","inputQueryString":"select * from GTFS.calendar","compiled":false,"inline":true}]}

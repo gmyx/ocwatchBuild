@@ -1,0 +1,1 @@
+{"queries":[{"id":"stops","compiledQueryString":"select * from GTFS.stops","inputQueryString":"select * from GTFS.stops","compiled":false,"inline":true}]}

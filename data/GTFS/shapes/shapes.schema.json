@@ -1,0 +1,1 @@
+[{"name":"shape_id","evidenceType":"string","typeFidelity":"precise"},{"name":"shape_pt_lat","evidenceType":"number","typeFidelity":"precise"},{"name":"shape_pt_lon","evidenceType":"number","typeFidelity":"precise"},{"name":"shape_pt_sequence","evidenceType":"number","typeFidelity":"precise"},{"name":"shape_dist_traveled","evidenceType":"number","typeFidelity":"precise"}]
